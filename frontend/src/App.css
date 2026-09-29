@@ -1,0 +1,45 @@
+/* FailureLoop Application Helper Styles */
+
+/* Code and Monospace Elements */
+code, pre {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 13px;
+  background-color: #F1EFEA;
+  padding: 2px 6px;
+  border-radius: var(--radius-tag);
+}
+
+/* Custom Clean Scrollbars for Memory Bank */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Modal Backdrop Transition */
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+[role="dialog"] > div {
+  animation: modalFadeIn 150ms cubic-bezier(0.16, 1, 0.3, 1);
+}
