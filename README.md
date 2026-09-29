@@ -108,7 +108,7 @@ Problem ──► Try ──► Fail ──► Learn ──► Remember (Hindsig
 ## Project Structure
 
 ```text
-e:\Hackton\
+e:\Failure-Loop\
 ├── backend/
 │   ├── src/
 │   │   ├── index.ts        # Express REST API endpoints & timing middleware

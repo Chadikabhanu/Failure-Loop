@@ -16,7 +16,7 @@
 - **Prerequisites:** 
   - Backend running: `http://localhost:4000`
   - Frontend open: `http://127.0.0.1:5173/`
-  - Terminal tab open to `e:\Hackton`
+  - Terminal tab open to `e:\Failure-Loop`
 
 ---
 

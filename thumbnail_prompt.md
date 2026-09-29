@@ -1,6 +1,6 @@
 # YouTube Thumbnail (16:9)
 
-> **Pre-rendered Asset Available:** A 16:9 thumbnail has already been generated and saved to [thumbnail.png](file:///e:/Hackton/thumbnail.png).
+> **Pre-rendered Asset Available:** A 16:9 thumbnail has already been generated and saved to [thumbnail.png](file:///e:/Failure-Loop/thumbnail.png).
 > 
 > If you wish to re-generate or customize it in Google Nano Banana, Midjourney, or Gemini Image Generator with aspect ratio `16:9`, use the prompt below:
 
